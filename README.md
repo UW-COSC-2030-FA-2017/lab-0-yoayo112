@@ -2,7 +2,7 @@
 lab-0-meep242 created by GitHub Classroom
 
 Expected File Structure:
-\lab0-Gitting_Started
-  |-README.md
-  |- Lab0.docx
-  |- <yourname>.txt
+\lab0-Gitting_Started<br>
+  |-README.md<br>
+  |- Lab0.docx<br>
+  |- <yourname>.txt<br>
